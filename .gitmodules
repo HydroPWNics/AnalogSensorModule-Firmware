@@ -1,0 +1,6 @@
+[submodule "Motate"]
+	path = Motate
+	url = https://github.com/synthetos/Motate.git
+[submodule "c-bowler"]
+	path = c-bowler
+	url = https://github.com/NeuronRobotics/c-bowler.git
